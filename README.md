@@ -13,5 +13,5 @@ Steps:
 7. [8.11,12,16,21,22]
 
 Big-O gösterimini yazınız. <br />
-In everys steps we check the n/2 iterations.
+In everys steps we check the n/2 iterations, finally we have to check the log(n) * n so that;
 - Big-O(nlog(n))
